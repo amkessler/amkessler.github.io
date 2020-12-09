@@ -13,12 +13,10 @@ This is a project that took White House salary data and created a dashboard to c
 See the page in action [here](https://amkessler.github.io/whsalaries/).
 
 
+### Biden Transition Tracking
 
+This project scraped the Biden Transition site and captured what was new, then generated a dynamic report.
 
-### Jekyll Themes
+See the report [here](https://amkessler.github.io/bidentransition/).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amkessler/amkessler.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+See my github repo with code for the project [here](https://github.com/amkessler/gw_r_assignment_transition).
